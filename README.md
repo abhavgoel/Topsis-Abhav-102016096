@@ -1,5 +1,6 @@
 # Topsis-Calculator
 ## The efficient python package to calcualate topsis scores
+Site is live at http://abhavgoel.pythonanywhere.com
 
 Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) is a multi-criteria-based decision-making method. TOPSIS chooses the alternative of shortest the Euclidean distance from the ideal solution and greatest distance from the negative ideal solution. 
 
